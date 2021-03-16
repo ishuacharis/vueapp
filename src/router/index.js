@@ -7,7 +7,7 @@ const routes = [
   },
   {
     path: '/folder/:id',
-    component: () => import ('../views/Folder.vue')
+    component: () => import ('@/views/Folder/Folder.vue')
   }
 ]
 

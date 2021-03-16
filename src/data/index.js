@@ -1,0 +1,1 @@
+export const labels = ['Family', 'Friends', 'Notes', 'Work', 'Travel', 'Reminders'];
